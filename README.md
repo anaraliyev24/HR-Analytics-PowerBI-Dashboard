@@ -32,6 +32,22 @@ Bu layihə şirkətin İnsan Resursları (HR) məlumatlarını təhlil etmək, k
 
 ---
 
+## 🎯 Biznes Tövsiyələri və Strateji Qərarlar (Actionable Recommendations)
+
+1. **Kritik Departamentlərdə Kadr Saxlanılması (Retention):**
+   - *Maliyyə* və *Satış* departamentlərində kadr axını ümumi xitamların **45%-ni** təşkil edir. Bu sahələrdə motivasiya sisteminə, iş yükünün bölgüsünə və karyera inkişafı imkanlarına yenidən baxılmalıdır.
+
+2. **Cinsiyyət üzrə Xitam Səbəblərinin Araşdırılması:**
+   - Xitam verənlərin **71.4%-nin kişi əməkdaşlar** olması səbəbilə dərinləşdirilmiş anonim sorğular və məcburi *Exit Interview* (işdən çıxış müsahibələri) həyata keçirilməlidir.
+
+3. **Maaş və Rəqabətlilik İndeksləşdirilməsi:**
+   - Xüsusilə texniki (*Backend, DevOps, Frontend*) və analitik rollar üçün bazar rəqabətliliyi (Benchmarking) aparılmalı, 0–3000 AZN aralığındakı əməkhaqqı paketləri günün tələblərinə uyğun optimallaşdırılmalıdır.
+
+4. **Gənc Kadr Potensialının Artırılması:**
+   - İşçi heyətinin böyük hissəsi **36–55 yaş** aralığındadır. Şirkətin gələcək kadr ehtiyatını (Succession Planning) təmin etmək üçün 18–25 yaş arası gənc mütəxəssislər və təcrübəçi proqramları (Internship) dəstəklənməlidir.
+
+---
+
 ## 🛠️ İstifadə Olunan Texnologiyalar
 
 * **Power BI Desktop:** Vizualizasiya, Dashboard dizaynı və UI/UX tənzimləmələri.
